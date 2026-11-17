@@ -186,6 +186,7 @@ The curriculum is organized into progressive levels. Planned lessons are not nec
 | 16 | Tool Selection and Routing | Multiple tools and appropriate tool selection | 📅 |
 | 17 | Structured Agent Responses | Typed results and output validation | 📅 |
 | 18 | Execution Limits | Iteration limits, timeouts, and error handling | 📅 |
+| 18.5 | Agent Middleware | Control agent execution with prebuilt and custom middleware | 📅 |
 
 **Project 01: Calculator Agent**
 
