@@ -10,6 +10,9 @@
 [![Forks](https://img.shields.io/github/forks/HosseinHeydari2004/AI-Agents-From-Zero-to-Advanced?style=for-the-badge&logo=github)](https://github.com/HosseinHeydari2004/AI-Agents-From-Zero-to-Advanced/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-Course-1C3C3C?style=for-the-badge&logo=robot&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
 **🇬🇧 English** | [🇮🇷 فارسی](README.fa.md)
